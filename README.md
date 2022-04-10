@@ -28,6 +28,7 @@ set mysql_connection_string "mysql://root@localhost/adv?charset=utf8mb4"
 
 # 📍 Inclus
 
+  - Videos: https://streamable.com/kx5yty
   - Hud (Design pas ouf juste pour le repére)
   - Tout Systéme est Synchro au client
   - Pour voir l'inventaire ```/info```
