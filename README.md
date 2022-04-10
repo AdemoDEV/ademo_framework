@@ -12,6 +12,7 @@
 
 - Installer le framework et glissé-le dans le dossier ```ressources```
 - Installer oxmysql et glissé-le dans le dossier ```ressources```
+- Insérer le sql en ```Base de donnée```
 - Tout ce qui est à start est à mettre dans le ```server.cfg```
 
 ```
