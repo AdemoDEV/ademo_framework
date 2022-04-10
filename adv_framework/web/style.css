@@ -1,0 +1,59 @@
+@font-face {
+    font-family: "font-navbar";
+    src: url("./pricedown.ttf");
+}
+
+#hud {
+    font-family: "font-navbar";
+    top: 1vh;
+}
+
+
+
+.money-count {
+    position: absolute;
+    color: rgb(27, 190, 12);
+    font-size: 2.5vh;
+    top: 1vh;
+    left: 2.8vh;
+}
+
+.dirty-count {
+    position: absolute;
+    color: rgb(204, 19, 19);
+    font-size: 2.5vh;
+    top: 4vh;
+    left: 2.8vh;
+}
+
+.bank-count {
+    position: absolute;
+    color: rgb(9, 176, 226);
+    font-size: 2.5vh;
+    top: 7vh;
+    left: 2.8vh;
+}
+
+.job-label {
+    position: absolute;
+    color: rgb(255, 255, 255);
+    font-size: 2.5vh;
+    top: 10vh;
+    left: 2.8vh;
+}
+
+.job2-label {
+    position: absolute;
+    color: rgb(255, 255, 255);
+    font-size: 2.5vh;
+    top: 13vh;
+    left: 2.8vh;
+}
+
+.addmoney {
+    position: absolute;
+    color: rgb(27, 190, 12);
+    font-size: 2.5vh;
+    top: 16vh;
+    left: 2.8vh;
+}
